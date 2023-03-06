@@ -1,7 +1,7 @@
 import telegram.ext 
 
 def start(update, context):
-    update.message.reply_text("Join channel now and enter in current signal!\n🚀🚀\n Join Here: https://t.me/+0ANleD6fIjU0OTE1")
+    update.message.reply_text("Join channel now and enter in current signal!\n🚀🚀\n Join Here: https://t.me/+x-8O-iQdnf8zNWI9")
 
     
 def help(update,context):
